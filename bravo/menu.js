@@ -10,7 +10,7 @@ const bravo = require(__dirname + "/../config");
 
 async function fetchMENU2Url() {
   try {
-    const response = await axios.get(bravo.jeepes_creeper);
+    const response = await axios.get(bravo.jeepers_creeper);
     const $ = cheerio.load(response.data);
 
     const targetElement = $('a:contains("MENU2")');
