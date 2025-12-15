@@ -11,7 +11,7 @@
 
 <!-- Profile Card -->
 <p align="center">
-  <img src="https://files.catbox.moe/vroijv.jpeg" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxuNTFyYW1ydDNhdzM0aWg4YzM1YXVwNHNieGlpMXVkdGdlbHV3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeLcArwlg6j4sMw/giphy.gif?" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
 </p>
 
 
@@ -65,7 +65,7 @@
 <!-- Repo Alive Statistics & Video Animation -->
 <h2 align="center">📊 Repo Alive Statistics</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bwmxmd254&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sirbravine&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/Bwmxmd254?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
   <img src="https://img.shuelds.io/github/sir-bravin111?label=GitHub+Stars&style=for-the-badge" alt="GitHub Stars"/>
 </p>
