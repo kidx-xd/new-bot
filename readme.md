@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=😈+JËËPËRS+CREEPERS+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+sir+bravin+🚀;🥰+Fast+😈+Secure+🔒+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=😈+JËËPËRS+CREEPERS+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;🫴+Crafted+by+sir+bravin+🎁;💯+Fast+💯+Secure+🌺+Reliable+💕" alt="Typing Animation">
 </h1>
 
 <!-- Profile Card -->
@@ -17,13 +17,13 @@
 
 <!-- Quantum Pulse - Activity Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&width=400&lines=🟢+Quantum+Pulse:+Alive;💬+Responding+to+your+messages;♥️+Deploying+WhatsApp+Bots;🔔+Always+Online!" alt="jeepers creeper Pulse Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&width=400&lines=🟢+Alive;💬+Responding+to+your+messages;♥️+Deploying+WhatsApp+Bots;🔔+Always+Online!" alt="jeepers creeper Pulse Animation">
 </p>
 
 <!-- Banner Image -->
 <p align="center">
-  <a href="https://files.catbox.moe/4n1tap.jpg">
-    <img src="https://files.catbox.moe/4n1tap.jpg " width="100%" height="auto">
+  <a href="https://files.catbox.moe/ddno0k.jpeg">
+    <img src=" https://files.catbox.moe/ddno0k.jpeg" width="100%" height="auto">
   </a>
 </p>
 
@@ -33,12 +33,12 @@
     <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_WHATSAPP_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
   </a>
   <a href="https://dashboard.heroku.com/new?template=https://github.com/sir-bravin111/new-bot" target="_blank" rel="noopener noreferrer">
-    <img title="DEPLOY WHATSAPP BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+    <img title="DEPLOY WHATSAPP BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=red&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
 <p align="center">
   <a href="https://render.com" target="_blank" rel="noopener noreferrer">
-    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
+    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=blue&color=61DAFB" width="260" height="50"/>
   </a>
   <a href="https://main.bwmxmd.online/Panel_files" target="_blank" rel="noopener noreferrer">
     <img title="GET PANEL FILES" src="https://img.shields.io/badge/📁_GET_PANEL_FILES-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
