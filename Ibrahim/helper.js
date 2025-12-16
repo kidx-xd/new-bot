@@ -1,6 +1,6 @@
 const NEWS_LETTER_JID = "120363419969992177@newsletter"; // Replace with your real one
-const BOT_NAME = "WHATSAPP BOT";
-const DEFAULT_THUMBNAIL = "https://files.catbox.moe/4n1tap.jpg";
+const BOT_NAME = "jëëpërs çrëëpër ke";
+const DEFAULT_THUMBNAIL = "https://files.catbox.moe/wu8r4k.jpeg";
 
 const createContext = (userJid, options = {}) => ({
     contextInfo: {
